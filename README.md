@@ -20,8 +20,8 @@
 ### 1. Tải về dự án
 
 ```bash
-git clone https://github.com/tuilahieu/note-app-1.git
-cd note-app-1
+git clone https://github.com/tuilahieu/todoapp.git
+cd todoapp
 ```
 
 ---
