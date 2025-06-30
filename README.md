@@ -26,6 +26,15 @@ cd note-app-1
 
 ---
 
+## 🖼️ Giao diện
+
+![Giao diện ứng dụng](sreenshot_readme/main.png)
+![Giao diện đăng nhập](sreenshot_readme/login.png)
+![Giao diện đăng ký](sreenshot_readme/register.png)
+
+
+---
+
 ## 🖥️ Chạy ứng dụng
 
 ### 📂 Cấu trúc thư mục
